@@ -21,7 +21,7 @@ require (
 	github.com/karlseguin/ccache v2.0.3+incompatible
 	github.com/karrick/godirwalk v1.17.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible
-	github.com/miekg/dns v1.1.49
+	github.com/miekg/dns v1.1.50
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/owenrumney/go-sarif/v2 v2.1.1
 	github.com/pkg/errors v0.9.1
@@ -29,11 +29,11 @@ require (
 	github.com/projectdiscovery/cryptoutil v1.0.0
 	github.com/projectdiscovery/fastdialer v0.0.16-0.20220609092737-7e3c7dcecf16
 	github.com/projectdiscovery/filekv v0.0.0-20210915124239-3467ef45dd08
-	github.com/projectdiscovery/fileutil v0.0.0-20220427234316-40b2541a84b8
+	github.com/projectdiscovery/fileutil v0.0.0-20220506114156-c4ab20801483
 	github.com/projectdiscovery/goflags v0.0.8-0.20220610073650-5d31a8c159e3
 	github.com/projectdiscovery/gologger v1.1.4
 	github.com/projectdiscovery/hmap v0.0.2-0.20210917080408-0fd7bd286bfa
-	github.com/projectdiscovery/interactsh v1.0.4
+	github.com/projectdiscovery/interactsh v1.0.6
 	github.com/projectdiscovery/nuclei-updatecheck-api v0.0.0-20211006155443-c0a8d610a4df
 	github.com/projectdiscovery/rawhttp v0.0.8-0.20220526170355-03de6bb78f37
 	github.com/projectdiscovery/retryabledns v1.0.13
@@ -75,12 +75,12 @@ require (
 	github.com/hashicorp/go-version v1.5.0
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/openrdap/rdap v0.9.1-0.20191017185644-af93e7ef17b7
-	github.com/projectdiscovery/iputil v0.0.0-20210804143329-3a30fcde43f3
+	github.com/projectdiscovery/iputil v0.0.0-20220620153941-036d511e4097
 	github.com/projectdiscovery/nvd v1.0.9-0.20220314070650-d4a214c1f87d
 	github.com/projectdiscovery/sliceutil v0.0.0-20220511171050-c7d9bc5cadd9
 	github.com/projectdiscovery/urlutil v0.0.0-20210525140139-b874f06ad921
 	github.com/projectdiscovery/wappalyzergo v0.0.46
-	github.com/stretchr/testify v1.7.2
+	github.com/stretchr/testify v1.8.0
 	github.com/zmap/zcrypto v0.0.0-20211005224000-2d0ffdec8a9b
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -119,12 +119,14 @@ require (
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/gosuri/uilive v0.0.4 // indirect
 	github.com/gosuri/uiprogress v0.0.1 // indirect
+	github.com/hashicorp/errwrap v1.0.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.1 // indirect
 	github.com/iancoleman/orderedmap v0.0.0-20190318233801-ac98e3ecb4b0 // indirect
 	github.com/itchyny/timefmt-go v0.1.3 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
-	github.com/klauspost/compress v1.15.2 // indirect
+	github.com/klauspost/compress v1.15.8 // indirect
 	github.com/klauspost/cpuid/v2 v2.0.11 // indirect
 	github.com/klauspost/pgzip v1.2.5 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
@@ -142,7 +144,7 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/power-devops/perfstat v0.0.0-20210106213030-5aafc221ea8c // indirect
 	github.com/projectdiscovery/blackrock v0.0.0-20210415162320-b38689ae3a2e // indirect
-	github.com/projectdiscovery/mapcidr v0.0.8 // indirect
+	github.com/projectdiscovery/mapcidr v1.0.0 // indirect
 	github.com/projectdiscovery/networkpolicy v0.0.1 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	github.com/tklauser/go-sysconf v0.3.10 // indirect
